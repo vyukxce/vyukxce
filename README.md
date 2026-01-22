@@ -1,98 +1,136 @@
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- HERO -->
+<!-- ───────────────────────────────────────────────────────── -->
+
 <h1 align="center">
   Vineet Dwivedi
 </h1>
 
-<h3 align="center">
-  Frontend Engineer • React Architect • UI/UX Focused
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=7C7CFF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+React+Applications;Clean+Architecture+%7C+Scalable+State;Real-World+Dashboards+%26+Auth+Flows;Frontend+Internship-Ready" />
+  <sub>
+    Frontend Engineer • React Architect • Product-Focused UI/UX
+  </sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vyukxce&label=PROFILE+VIEWS&color=7C7CFF&style=flat" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1400&color=9AA5FF&center=true&vCenter=true&width=820&lines=I+design+and+engineer+production-grade+frontend+systems.;Clean+architecture.+Predictable+state.+Intentional+UX.;Dashboards%2C+auth+flows%2C+and+real-world+applications.;Frontend+Internship-Ready."
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=vyukxce&label=VISITORS&color=9AA5FF&style=flat"
+  />
 </p>
 
 ---
 
-## ✦ About
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- ABOUT -->
+<!-- ───────────────────────────────────────────────────────── -->
 
-I’m a **frontend-focused engineer** who builds **real, usable products** — not tutorial clones.
+## Philosophy
 
-My work emphasizes:
-- **Scalable React architecture**
-- **Authentication & protected routing**
-- **Realistic user flows**
-- **Premium UI/UX with performance in mind**
+I don’t build *screens*.  
+I build **systems**.
 
-I approach frontend like a product engineer —  
-**clarity, structure, and experience first.**
+My focus is frontend engineering that feels:
+- deliberate
+- scalable
+- production-ready
 
----
-
-## ✦ What Sets Me Apart
-
-▸ I think in **flows**, not pages  
-▸ I build **production-style React apps**  
-▸ I prioritize **maintainability over shortcuts**  
-▸ I design UI that feels **intentional & polished**
+Every component, hook, and route exists for a reason.  
+No shortcuts. No tutorial-grade patterns.
 
 ---
 
-## ✦ Tech Stack
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- DIFFERENTIATION -->
+<!-- ───────────────────────────────────────────────────────── -->
+
+## What Makes My Work Different
+
+- I think in **user flows**, not pages  
+- I design **state before UI**  
+- I treat frontend as **product engineering**, not styling  
+- I optimize for **clarity, maintainability, and UX depth**
+
+This results in applications that feel *real*, not academic.
+
+---
+
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- STACK -->
+<!-- ───────────────────────────────────────────────────────── -->
+
+## Stack I Trust
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,git,github" />
 </p>
 
 <p align="center">
-  <sub>React • Context API • React Router • Tailwind CSS • Axios • Vite</sub>
+  <sub>
+    React • Context API • React Router • Tailwind CSS • Axios • Vite
+  </sub>
 </p>
 
 ---
 
-## ✦ Selected Projects
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- PROJECTS -->
+<!-- ───────────────────────────────────────────────────────── -->
 
-### ◉ User Explorer Dashboard
-A production-style React dashboard focused on **auth, performance, and UX**.
+## Selected Work
 
-• Context API based authentication (persisted)  
-• Protected routes & access control  
-• Debounced search + pagination  
-• Clean, modular folder structure  
+### ◉ User Explorer Dashboard  
+A production-style React dashboard focused on **architecture, performance, and UX realism**.
+
+- Context-based authentication (persisted)
+- Protected routes & access control
+- Debounced search with pagination
+- Clean, scalable folder structure
 
 🔗 https://github.com/vyukxce/User-Explorer-Dashboard
 
 ---
 
-### ◉ Job Portal Dashboard (Frontend)
-A **realistic job-search experience** designed to mirror real platforms.
+### ◉ Job Portal Dashboard (Frontend)  
+A realistic job-search experience designed to mirror modern platforms.
 
-• Login & logout flow  
-• Dashboard with job cards  
-• Saved jobs & fake apply UX  
-• Backend-ready architecture  
-
----
-
-## ✦ Current Focus
-
-• Advanced React patterns  
-• UI/UX motion & micro-interactions  
-• TypeScript adoption  
-• Frontend Internship opportunities  
+- Login & logout flow
+- Job discovery & saved jobs
+- “Apply” UX that feels real
+- Backend-ready architecture
 
 ---
 
-## ✦ Connect
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- CURRENT FOCUS -->
+<!-- ───────────────────────────────────────────────────────── -->
+
+## Current Focus
+
+- Advanced React patterns
+- UI motion & micro-interactions
+- TypeScript migration
+- Frontend Internship opportunities
+
+---
+
+<!-- ───────────────────────────────────────────────────────── -->
+<!-- CONNECT -->
+<!-- ───────────────────────────────────────────────────────── -->
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/vyukxce">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:vineet@example.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vineetdwivedi409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -100,6 +138,6 @@ A **realistic job-search experience** designed to mirror real platforms.
 
 <p align="center">
   <sub>
-    “I don’t chase frameworks — I master fundamentals and ship products.”
+    “I don’t chase trends. I build foundations.”
   </sub>
 </p>
